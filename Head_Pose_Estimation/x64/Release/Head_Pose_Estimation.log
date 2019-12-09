@@ -1,0 +1,9 @@
+﻿  Head_Pose_Estimation.cpp
+C:\dlib-19.18\dlib\image_transforms\morphological_operations.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\sens\source\repos\Head_Pose_Estimation\Head_Pose_Estimation\Head_Pose_Estimation.cpp(212,19): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コード生成しています。
+  1 of 10558 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Head_Pose_Estimation.vcxproj -> C:\Users\sens\source\repos\Head_Pose_Estimation\x64\Release\Head_Pose_Estimation.exe

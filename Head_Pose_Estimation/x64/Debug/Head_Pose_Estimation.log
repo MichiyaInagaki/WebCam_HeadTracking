@@ -1,0 +1,7 @@
+﻿  source.cpp
+  face_pose.cpp
+  Head_Pose_Estimation.cpp
+C:\Users\sens\source\repos\Head_Pose_Estimation\Head_Pose_Estimation\face_pose.cpp(30,10): fatal error C1083: include ファイルを開けません。'dlib/opencv.h':No such file or directory
+  コードを生成中...
+C:\Users\sens\source\repos\Head_Pose_Estimation\Head_Pose_Estimation\Head_Pose_Estimation.cpp(26,10): fatal error C1083: include ファイルを開けません。'dlib/opencv.h':No such file or directory
+C:\dlib-19.18\dlib\all\source.cpp : fatal error C1128: セクションの数がオブジェクト ファイル形式の制限を超えています: /bigobj と共にコンパイルしてください
